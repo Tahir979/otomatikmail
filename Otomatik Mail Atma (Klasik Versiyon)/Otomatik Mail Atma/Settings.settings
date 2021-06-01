@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Otomatik_Mail_Atma" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="mail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">hupsikoloji@gmail.com</Value>
+    </Setting>
+    <Setting Name="sifre" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Yk2021adler</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="metroLabel3.Text" xml:space="preserve">
+    <value>Temel Olarak Bilinmesi Gerekenler
+
+Bu program, çok temel olarak topluluğun toplu mail işlemlerini yarı-otomatik olarak göndermek amacıyla oluşturulmuştur.
+
+Hazırlamış olduğum videoyu izlerseniz çok çok pratik olarak ne yapılması gerektiğini anlayabilirsiniz, yazılı kısmı okuyarak tam olarak anlaşılamayabilir.
+ 
+1. Kişilerin Veri Girişini Gerçekleştirme: Bunun için Google Formlardan indirmiş olduğunuz kişilerin bilgilerini içeren Excel dosyanızı yüklemeniz gerekmektedir. Excel dosyanızı programa yüklemeden önce ilgili excel dosyanıza girerek excel dosyanızın "Şekil - 1"deki gibi olmasını sağlamalısınız. 
+
+İsimler A sütununda Mailler B sütununda olmalı ve geri kalan sütunlarda herhangi bir veri olmamalıdır. Program, A ve B sütunlarından kişilerin bilgilerini alacak şekilde tasarlanmıştır. Excel dosyanız içinde A ve B'den başka veri içeren sütun varsa, program için gereksiz olan ilgili sütunların üstüne sağ tıklayıp "Sil" seçeneğine tıkladığınız zaman gereksiz sütunlar silinmiş olur. Sütun genişlikleri önemsizdir.
+
+2. Mail Gönderimi: Veri girişlerini tamamladıktan sonra normal mail yazar gibi mail başlığınızı mail içeriğinizi hitap şeklinizi ekleyerek mail taslağınızı oluşturuyorsunuz ve "Kişiler Mail Göndermeyi Başlat" butonuna basarak mail gönderme işlemini başlatmış olursunuz.</value>
+  </data>
+  <data name="metroLabel2.Text" xml:space="preserve">
+    <value>Biraz daha ayrıntılı bilgiler
+
+1. Mailler neye göre otomatik olarak hatalı/doğru olarak ayıklanıyor?
+
+1.a) Mail adreslerinde türkçe karakterler kullanılamasına dünyada yaygın olarak kullanılan çoğu mail servis sağlayıcısı(Gmail, Hotmail, Yahoo, Outlook, iCloud vb.) izin vermiyor, yerel ölçekli küçük mail servis sağlayıcıları arasında izin veren vardır elbette.
+
+Bize ücretsiz olarak mail servis hizmeti sağlayan "Gmail", Türkçe karakterli e mail adreslerini, yerel ölçekli mail servis saglayıcıları sayesinde var olsa bile onlara mail gönderimini gerçekleştirememe ihtimali var eğer yerel servis sağlayıcısı IDN kullanmıyorsa. (kullanıyorsa gönderir ama ben bilemem bunu ve ona göre bir ayıklama yapamam, bu yüzden eşşeğimi sağlam kazığa bağlayıp her türlü türkçe karakterli mail adresini hatalı olarak tanıttım programa)
+
+1.b) İkinci olarak ise herhangi bir mail formatına uymayan(.... @...) yanlış yazıldığı çok belli olan mail adresi gönderilebiliyor bazen yanlışlıkla. Bunların en baştan ayıklanması programın daha sağlıklı çalışmasını sağlamak açısından önemlidir.
+
+Olaki gözümden kaçan ve sorun yaratma potansiyeli olan bilinmeyen bir durum varsa ya da benim atladığım bir nokta varsa programa o maili atla dedim ama programın canı sıkıntı çıkarmak isterse çöker yani yapacak bir şey yok :))
+
+
+2. Neden "5 MB" dosya sınırı var?
+
+2. Aslında bu sınır "25 MB" olarak belirlenmiş Gmail tarafından ama ben keyfi şekilde çok yüksek boyutlu dosyaların eklerde gönderilmesine izin vermek istemedim çünkü gereksiz yere kabarık boyutlu mail gönderimi programı minumum 5 kata kadar yavaşlatma ihtimali var(gmail kendisi de zaten 25 MB'ı aşan dosyalar için drive linkini otomatik olarak oluşturur), bu çok ciddi bir süredir eğer gidip 100 200 kişiye ekli bir şekilde mail gönderiyor iseniz. Sonuçta bu programın amacı belli, dosya gönderimi yapmak değil mail gönderimi yapmak. Bu yüzden eğer yüksek boyutlu ekleriniz varsa onları mümkün mertebe drive'a yükleyin ve o drive linkini mail içeriğinize yapıştırın, ekte dosya göndermenin yerini tutmaz belki ama bir öğrenci topluluğu, ücretsiz bir servis sağlayıcısı ve zaman tasarrufu açısından 5 MB'ın ideal bir sınır olduğuna inanıyorum.
+
+Ekte var olan dosyalardan bağımsız olarak, upload hızı ne kadar fazla olursa mailler o kadar hızlı gönderilecektir.
+
+3. Program neden "tam-otomatik" değil de "yarı-otomatik"?
+
+3. Çünkü tam otomatik olmasının önünde bazı bilinmezler var ve bu ancak program kullanıldıkça şekillenebilecek bir şey. Belli bir gruba her ay düzenli olarak gönderilecek bir içerik var mı, bu içerik sabit bir içerik mi değişken bir içerik mi yoksa sadece yogun katılımın olduğu ve insanlara sürekli olarak bilgilendirilmesi yapılması gereken etkinlikler için(Ruh Sağlığı gibi) mi kullanılacak ya da şu an aklıma gelmeyen farklı şekillerde mi bilmiyorum. Açıkcası bu programın ne kadar sık kullanılacağından da emin değilim belki doğru düzgün kullanılmayacak belki hiç kullanılmayacak yeni YK üyelerimiz el ile toplu mail atma girişiminde bulunacak... Bu yüzden tam-otomatik olarak yapmaktansa ihtiyaç zamanında kullanılması gerekirse kullanılsın diye "yarı-otomatik" şekilde tasarladım programı. </value>
+  </data>
+  <data name="metroLabel6.Text" xml:space="preserve">
+    <value>__________________________________________________________________________________________________________________________________________________________________________________________________________</value>
+  </data>
+  <data name="metroLabel7.Text" xml:space="preserve">
+    <value>*Ufak bir ihtimal olsa da eğer her şey düzgün olmasına rağmen program çalışmıyorsa belki bir ihtimal google "Less Secure Apps" özelliğini kaldırmış olabilir bazı şeyleri değiştirmiş olabilir, sonuçta bu bir ücretsiz servis ve eğer onlar bu desteği kaldırırsa ya da bazı şeyleri değiştirirse bu programın işlevselliği bozulabilir. Böyle bir durum oluşursa ve programın kullanılmaya ihtiyacı varsa lütfen bana ulaşınız ya da mail atınız. Kafanıza takılan başka bir durum oluşursa da yine ulaşabilirsiniz ya da mail atabilirsiniz.
+
+Tahir Tekatlı muhammettahirtekatli@gmail.com
+
+</value>
+  </data>
+</root>

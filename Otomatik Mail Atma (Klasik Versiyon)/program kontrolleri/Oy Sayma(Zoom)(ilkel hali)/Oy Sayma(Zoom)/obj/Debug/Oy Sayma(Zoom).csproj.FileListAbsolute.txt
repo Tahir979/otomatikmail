@@ -1,0 +1,62 @@
+C:\Users\wasd0\Desktop\Oy Sayma(Zoom)\Oy Sayma(Zoom)\Oy Sayma(Zoom)\bin\Debug\Oy Sayma(Zoom).exe.config
+C:\Users\wasd0\Desktop\Oy Sayma(Zoom)\Oy Sayma(Zoom)\Oy Sayma(Zoom)\bin\Debug\Oy Sayma(Zoom).exe
+C:\Users\wasd0\Desktop\Oy Sayma(Zoom)\Oy Sayma(Zoom)\Oy Sayma(Zoom)\bin\Debug\Oy Sayma(Zoom).pdb
+C:\Users\wasd0\Desktop\Oy Sayma(Zoom)\Oy Sayma(Zoom)\Oy Sayma(Zoom)\obj\Debug\Oy Sayma(Zoom).csprojAssemblyReference.cache
+C:\Users\wasd0\Desktop\Oy Sayma(Zoom)\Oy Sayma(Zoom)\Oy Sayma(Zoom)\obj\Debug\Oy_Sayma_Zoom_.Form1.resources
+C:\Users\wasd0\Desktop\Oy Sayma(Zoom)\Oy Sayma(Zoom)\Oy Sayma(Zoom)\obj\Debug\Oy_Sayma_Zoom_.Properties.Resources.resources
+C:\Users\wasd0\Desktop\Oy Sayma(Zoom)\Oy Sayma(Zoom)\Oy Sayma(Zoom)\obj\Debug\Oy Sayma(Zoom).csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\Oy Sayma(Zoom)\Oy Sayma(Zoom)\Oy Sayma(Zoom)\obj\Debug\Oy Sayma(Zoom).exe
+C:\Users\wasd0\Desktop\Oy Sayma(Zoom)\Oy Sayma(Zoom)\Oy Sayma(Zoom)\obj\Debug\Oy Sayma(Zoom).pdb
+C:\Users\wasd0\Desktop\Oy Sayma(Zoom)\Oy Sayma(Zoom)\Oy Sayma(Zoom)\obj\Debug\Oy Sayma(Zoom).csproj.ResolveComReference.cache
+C:\Users\wasd0\Desktop\Oy Sayma(Zoom)\Oy Sayma(Zoom)\Oy Sayma(Zoom)\obj\Debug\Oy_Sayma_Zoom_.Form2.resources
+C:\Users\wasd0\Desktop\Oy Sayma(Zoom)\Oy Sayma(Zoom)\Oy Sayma(Zoom)\obj\Debug\Oy_Sayma_Zoom_.Oysay.resources
+C:\Users\wasd0\Desktop\Oy Sayma(Zoom)(en güncel yedek)\Oy Sayma(Zoom)\Oy Sayma(Zoom)\bin\Debug\Oy Sayma(Zoom).exe.config
+C:\Users\wasd0\Desktop\Oy Sayma(Zoom)(en güncel yedek)\Oy Sayma(Zoom)\Oy Sayma(Zoom)\bin\Debug\Oy Sayma(Zoom).exe
+C:\Users\wasd0\Desktop\Oy Sayma(Zoom)(en güncel yedek)\Oy Sayma(Zoom)\Oy Sayma(Zoom)\bin\Debug\Oy Sayma(Zoom).pdb
+C:\Users\wasd0\Desktop\Oy Sayma(Zoom)(en güncel yedek)\Oy Sayma(Zoom)\Oy Sayma(Zoom)\obj\Debug\Oy Sayma(Zoom).csprojAssemblyReference.cache
+C:\Users\wasd0\Desktop\Oy Sayma(Zoom)(en güncel yedek)\Oy Sayma(Zoom)\Oy Sayma(Zoom)\obj\Debug\Oy Sayma(Zoom).csproj.ResolveComReference.cache
+C:\Users\wasd0\Desktop\Oy Sayma(Zoom)(en güncel yedek)\Oy Sayma(Zoom)\Oy Sayma(Zoom)\obj\Debug\Oy_Sayma_Zoom_.Form1.resources
+C:\Users\wasd0\Desktop\Oy Sayma(Zoom)(en güncel yedek)\Oy Sayma(Zoom)\Oy Sayma(Zoom)\obj\Debug\Oy_Sayma_Zoom_.Form2.resources
+C:\Users\wasd0\Desktop\Oy Sayma(Zoom)(en güncel yedek)\Oy Sayma(Zoom)\Oy Sayma(Zoom)\obj\Debug\Oy_Sayma_Zoom_.Oysay.resources
+C:\Users\wasd0\Desktop\Oy Sayma(Zoom)(en güncel yedek)\Oy Sayma(Zoom)\Oy Sayma(Zoom)\obj\Debug\Oy_Sayma_Zoom_.Properties.Resources.resources
+C:\Users\wasd0\Desktop\Oy Sayma(Zoom)(en güncel yedek)\Oy Sayma(Zoom)\Oy Sayma(Zoom)\obj\Debug\Oy Sayma(Zoom).csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\Oy Sayma(Zoom)(en güncel yedek)\Oy Sayma(Zoom)\Oy Sayma(Zoom)\obj\Debug\Oy Sayma(Zoom).exe
+C:\Users\wasd0\Desktop\Oy Sayma(Zoom)(en güncel yedek)\Oy Sayma(Zoom)\Oy Sayma(Zoom)\obj\Debug\Oy Sayma(Zoom).pdb
+C:\Users\wasd0\Desktop\Seminerler için Otomatik Mail Atma\Oy Sayma(Zoom)\Oy Sayma(Zoom)\bin\Debug\Oy Sayma(Zoom).exe.config
+C:\Users\wasd0\Desktop\Seminerler için Otomatik Mail Atma\Oy Sayma(Zoom)\Oy Sayma(Zoom)\bin\Debug\Oy Sayma(Zoom).exe
+C:\Users\wasd0\Desktop\Seminerler için Otomatik Mail Atma\Oy Sayma(Zoom)\Oy Sayma(Zoom)\bin\Debug\Oy Sayma(Zoom).pdb
+C:\Users\wasd0\Desktop\Seminerler için Otomatik Mail Atma\Oy Sayma(Zoom)\Oy Sayma(Zoom)\obj\Debug\Oy Sayma(Zoom).csprojAssemblyReference.cache
+C:\Users\wasd0\Desktop\Seminerler için Otomatik Mail Atma\Oy Sayma(Zoom)\Oy Sayma(Zoom)\obj\Debug\Oy Sayma(Zoom).csproj.ResolveComReference.cache
+C:\Users\wasd0\Desktop\Seminerler için Otomatik Mail Atma\Oy Sayma(Zoom)\Oy Sayma(Zoom)\obj\Debug\Oy_Sayma_Zoom_.Form1.resources
+C:\Users\wasd0\Desktop\Seminerler için Otomatik Mail Atma\Oy Sayma(Zoom)\Oy Sayma(Zoom)\obj\Debug\Oy_Sayma_Zoom_.Form2.resources
+C:\Users\wasd0\Desktop\Seminerler için Otomatik Mail Atma\Oy Sayma(Zoom)\Oy Sayma(Zoom)\obj\Debug\Oy_Sayma_Zoom_.Oysay.resources
+C:\Users\wasd0\Desktop\Seminerler için Otomatik Mail Atma\Oy Sayma(Zoom)\Oy Sayma(Zoom)\obj\Debug\Oy_Sayma_Zoom_.Properties.Resources.resources
+C:\Users\wasd0\Desktop\Seminerler için Otomatik Mail Atma\Oy Sayma(Zoom)\Oy Sayma(Zoom)\obj\Debug\Oy Sayma(Zoom).csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\Seminerler için Otomatik Mail Atma\Oy Sayma(Zoom)\Oy Sayma(Zoom)\obj\Debug\Oy Sayma(Zoom).exe
+C:\Users\wasd0\Desktop\Seminerler için Otomatik Mail Atma\Oy Sayma(Zoom)\Oy Sayma(Zoom)\obj\Debug\Oy Sayma(Zoom).pdb
+C:\Users\wasd0\Desktop\Otomatik Mail Atma\Oy Sayma(Zoom)\Oy Sayma(Zoom)\bin\Debug\Oy Sayma(Zoom).exe.config
+C:\Users\wasd0\Desktop\Otomatik Mail Atma\Oy Sayma(Zoom)\Oy Sayma(Zoom)\bin\Debug\Oy Sayma(Zoom).exe
+C:\Users\wasd0\Desktop\Otomatik Mail Atma\Oy Sayma(Zoom)\Oy Sayma(Zoom)\bin\Debug\Oy Sayma(Zoom).pdb
+C:\Users\wasd0\Desktop\Otomatik Mail Atma\Oy Sayma(Zoom)\Oy Sayma(Zoom)\obj\Debug\Oy Sayma(Zoom).csprojAssemblyReference.cache
+C:\Users\wasd0\Desktop\Otomatik Mail Atma\Oy Sayma(Zoom)\Oy Sayma(Zoom)\obj\Debug\Oy Sayma(Zoom).csproj.ResolveComReference.cache
+C:\Users\wasd0\Desktop\Otomatik Mail Atma\Oy Sayma(Zoom)\Oy Sayma(Zoom)\obj\Debug\Oy_Sayma_Zoom_.Form1.resources
+C:\Users\wasd0\Desktop\Otomatik Mail Atma\Oy Sayma(Zoom)\Oy Sayma(Zoom)\obj\Debug\Oy_Sayma_Zoom_.Form2.resources
+C:\Users\wasd0\Desktop\Otomatik Mail Atma\Oy Sayma(Zoom)\Oy Sayma(Zoom)\obj\Debug\Oy_Sayma_Zoom_.Oysay.resources
+C:\Users\wasd0\Desktop\Otomatik Mail Atma\Oy Sayma(Zoom)\Oy Sayma(Zoom)\obj\Debug\Oy_Sayma_Zoom_.Properties.Resources.resources
+C:\Users\wasd0\Desktop\Otomatik Mail Atma\Oy Sayma(Zoom)\Oy Sayma(Zoom)\obj\Debug\Oy Sayma(Zoom).csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\Otomatik Mail Atma\Oy Sayma(Zoom)\Oy Sayma(Zoom)\obj\Debug\Oy Sayma(Zoom).exe
+C:\Users\wasd0\Desktop\Otomatik Mail Atma\Oy Sayma(Zoom)\Oy Sayma(Zoom)\obj\Debug\Oy Sayma(Zoom).pdb
+E:\FORMAT YEDEKLERİ\MASAÜSTÜ YEDEK\Sağ üst - Normal\Otomatik Mail Atma\Oy Sayma(Zoom)\Oy Sayma(Zoom)\bin\Debug\Oy Sayma(Zoom).exe.config
+E:\FORMAT YEDEKLERİ\MASAÜSTÜ YEDEK\Sağ üst - Normal\Otomatik Mail Atma\Oy Sayma(Zoom)\Oy Sayma(Zoom)\bin\Debug\Oy Sayma(Zoom).exe
+E:\FORMAT YEDEKLERİ\MASAÜSTÜ YEDEK\Sağ üst - Normal\Otomatik Mail Atma\Oy Sayma(Zoom)\Oy Sayma(Zoom)\bin\Debug\Oy Sayma(Zoom).pdb
+E:\FORMAT YEDEKLERİ\MASAÜSTÜ YEDEK\Sağ üst - Normal\Otomatik Mail Atma\Oy Sayma(Zoom)\Oy Sayma(Zoom)\obj\Debug\Oy Sayma(Zoom).csprojAssemblyReference.cache
+E:\FORMAT YEDEKLERİ\MASAÜSTÜ YEDEK\Sağ üst - Normal\Otomatik Mail Atma\Oy Sayma(Zoom)\Oy Sayma(Zoom)\obj\Debug\Oy Sayma(Zoom).csproj.ResolveComReference.cache
+E:\FORMAT YEDEKLERİ\MASAÜSTÜ YEDEK\Sağ üst - Normal\Otomatik Mail Atma\Oy Sayma(Zoom)\Oy Sayma(Zoom)\obj\Debug\Oy_Sayma_Zoom_.Form1.resources
+E:\FORMAT YEDEKLERİ\MASAÜSTÜ YEDEK\Sağ üst - Normal\Otomatik Mail Atma\Oy Sayma(Zoom)\Oy Sayma(Zoom)\obj\Debug\Oy_Sayma_Zoom_.Form2.resources
+E:\FORMAT YEDEKLERİ\MASAÜSTÜ YEDEK\Sağ üst - Normal\Otomatik Mail Atma\Oy Sayma(Zoom)\Oy Sayma(Zoom)\obj\Debug\Oy_Sayma_Zoom_.Oysay.resources
+E:\FORMAT YEDEKLERİ\MASAÜSTÜ YEDEK\Sağ üst - Normal\Otomatik Mail Atma\Oy Sayma(Zoom)\Oy Sayma(Zoom)\obj\Debug\Oy_Sayma_Zoom_.Properties.Resources.resources
+E:\FORMAT YEDEKLERİ\MASAÜSTÜ YEDEK\Sağ üst - Normal\Otomatik Mail Atma\Oy Sayma(Zoom)\Oy Sayma(Zoom)\obj\Debug\Oy Sayma(Zoom).csproj.GenerateResource.cache
+E:\FORMAT YEDEKLERİ\MASAÜSTÜ YEDEK\Sağ üst - Normal\Otomatik Mail Atma\Oy Sayma(Zoom)\Oy Sayma(Zoom)\obj\Debug\Oy Sayma(Zoom).csproj.CoreCompileInputs.cache
+E:\FORMAT YEDEKLERİ\MASAÜSTÜ YEDEK\Sağ üst - Normal\Otomatik Mail Atma\Oy Sayma(Zoom)\Oy Sayma(Zoom)\obj\Debug\Oy Sayma(Zoom).exe
+E:\FORMAT YEDEKLERİ\MASAÜSTÜ YEDEK\Sağ üst - Normal\Otomatik Mail Atma\Oy Sayma(Zoom)\Oy Sayma(Zoom)\obj\Debug\Oy Sayma(Zoom).pdb
+C:\Users\wasd0\Desktop\Otomatik Mail Atma\Oy Sayma(Zoom)\Oy Sayma(Zoom)\obj\Debug\Oy Sayma(Zoom).csproj.CoreCompileInputs.cache

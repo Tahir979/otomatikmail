@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="label1.Text" xml:space="preserve">
+    <value>1. Öncelikle, kişilerden "isim ve soyisim", "Sınıf", "Telefon Numarası" ve "Hacettepe uzantılı e-mail"in isteneceği bir form oluşturulup oylamaya katılmak isteyen kişilerin bu formu doldurması istenecektir.
+
+2. Kişiler bu formu doldurduktan sonra programa kişilerin verileri aktarılacaktır ve herkesin hacettepe uzantılı e-mail adresine bir adet doğrulama kodu gönderilecektir, bu doğrulama kodu sayesinde katılan herkesin 1 adet oy kullanma hakkı olacaktır("1 adet oy" dediğim şey = 1 adet başkanlık ekibi oyu ve 2 adet bağımsız aday oylarından oluşacaktır)
+
+-Bazı kişiler belki kötü niyetli belki iyi niyetli olarak hacettepe uzantılı e-mail harici farklı bir mail girişi yapabilir, burada oy vermek isteyen kişinin çok ekstrem bir örneği olmadığı sürece(hacettepe e postasına girememesi gibi), asla ve asla hacettepe uzantılı olmayan e-mail adresleri oylamaya sokulmayacaktır!!
+
+-Peki bunun kontrolünü nasıl sağlayacağız? "Yapılacak olan kontrol - 1" aşamasında farklı uzantılı e-mail adres yazan kişiler tespit edilip onlara doğrulama kodu gönderilmeden sistemden silinecektir.
+
+-Kişilere doğrulama kodu gönderildikten sonra belki bazı kişiler aynı e-mail adresi için 2 ya da daha fazla doğrulama kodu talep etmiş olabilir farklı farklı gmail hesaplarından formu doldurarak; böyle bir durumda önce bu iki aynı email adresini giren kişilerle konuşacağız, (tabi hayali bir kişi değilse iki kişiden biri!) çünkü eğer isimleri benzerse email adreslerinin de birbirine benzeme ihtimali var, ve bence düşük bir ihtimal ama, bu yüzden dolayı tesadüf eseri mailleri karışmış olur bir kişiye kendisi istemeden 2 tane doğrulama kodu gidebilir
+
+-Bunun kontrolünü de "Yapılacak olan kontrol - 2" aşamasında yapacağız. Oradan, eğer varsa, aynı emaili giren iki kişi tespit edilebilecek
+
+3. Herkes doğrulama kodunu aldı, adaylar konuştu oylama yapıldı ve şimdi oyların sayımı yapılacak ama hala atlanan bir nokta var: Kişiler arkadaşlarının hacettepe uzantılı email adreslerini alıp,ya da bir yerden bulup, daha sonra kafalarına göre bir doğrulama kodu sallayarak fazladan oy verebileceklerini düşünebilir ama yapamayacaklar, çünkü sistem kime hangi doğrulama kodunu gönderdiğini bildiği için eğer farklı bir kodla oy verme işlemi yapmak istenirse sistem bu hatayı tespit edebilecektir, ve biz bu durumda ilk başta kişiye ulaşmayı deneyeceğiz; ama tabi şu da var, mesela kodunuz "S3jv4H" olsun, bazen kodu yazarken fark etmeden ufak tefek hatalar yapabilirsiniz mesela sondaki "H" yerine "h" filan yazabilirsiniz farkında olmadan, bu tarz ufak tefek şeyler sorun yaratmayacaktır ama hiç bir şekilde eşleşmiyorsa bizim gönderdiğimiz kodla, o oy geçersiz sayılacaktır.
+
+-Bunun kontrolü ise "Yapılacak olan kontrol - 3" aşamasında yapacağız, farklı kod girişleri, eğer varsa, orada listenecektir
+
+4.Bundan sonra da oy sayma işlemi, heyecanlı olsun derseniz tek tek oyları açarız yok hemen açıklansın derseniz hemen açıklanır o size kalmış :D</value>
+  </data>
+</root>
